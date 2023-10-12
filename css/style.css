@@ -1,0 +1,50 @@
+h3 {
+	color: red;
+	background-color: yellow;
+   }
+
+
+.anchor-1{ 
+	           color: green;
+	           background-color: greenyellow;
+	           padding: 10px;
+
+         }
+
+
+.anchor-2 {
+	           padding: 5px 10px;
+	           color: green;
+	           background-color: paleturquoise;
+	           
+           }
+
+#ssb {
+	   color: darkgreen;
+	   background-color: paleturquoise;
+	   border: 5px solid orange;
+}
+
+.div1{ 
+	  border: 5px dotted seagreen;
+      padding: 10px 15px 0px;
+      margin: 50px 100px 10px 100px;
+
+  }
+
+
+  #image {
+  	        margin: 5px 400px 150px 400px;
+            padding: 100px;
+  	        border: 20px solid chocolate ;
+
+
+  }
+
+  .who {
+  	     color: royalblue;
+  	     background-color: blanchedalmond;
+  	     border:10px double blueviolet;
+
+
+  }
